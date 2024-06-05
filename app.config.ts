@@ -89,6 +89,7 @@ const defaultCodeIcon = {
   'js': 'vscode-icons:file-type-js',
   'jsx': 'vscode-icons:file-type-js',
   'md': 'vscode-icons:file-type-markdown',
+  'mdc': 'vscode-icons:file-type-markdown',
   'py': 'vscode-icons:file-type-python',
   'npm': 'vscode-icons:file-type-npm',
   'pnpm': 'vscode-icons:file-type-pnpm',
