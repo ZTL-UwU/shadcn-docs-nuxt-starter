@@ -4,6 +4,11 @@ export default defineAppConfig({
       name: 'shadcn-docs-nuxt',
       description: 'Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.',
     },
+    theme: {
+      customizable: true,
+      color: 'blue',
+      radius: 0.5,
+    },
     header: {
       title: 'shadcn-docs-starter',
       showTitle: true,
