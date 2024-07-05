@@ -6,7 +6,7 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: 'Release v0.3.1'
+  title: 'Release v0.3.3'
   icon: 'noto:party-popper'
   to: /getting-started
 actions:
@@ -22,9 +22,9 @@ actions:
 Effortless and Beautiful<br>Docs Template.
 
 #description
-Beautifully designed Nuxt Content template with shadcn-vue.<br>Customizable. Compatible. Open Source.
+Beautifully designed Nuxt Content template built with shadcn-vue.<br>Customizable. Compatible. Open Source.
 ::
 
 <div class="border rounded-lg shadow-md">
-  <iframe src="/getting-started/writing/components" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
+  <iframe src="/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
 </div>
