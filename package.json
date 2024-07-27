@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "nuxt": "^3.12.4",
-    "shadcn-docs-nuxt": "^0.4.2",
-    "vue": "^3.4.33",
+    "shadcn-docs-nuxt": "^0.4.4",
+    "vue": "^3.4.34",
     "vue-router": "^4.4.0"
   }
 }
