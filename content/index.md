@@ -13,7 +13,6 @@ announcement:
 actions:
   - name: Documentation
     to: https://shadcn-docs-nuxt.vercel.app/getting-started/introduction
-    target: _blank
   - name: GitHub
     variant: outline
     to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
