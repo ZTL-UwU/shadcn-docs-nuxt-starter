@@ -18,11 +18,15 @@ export default defineAppConfig({
         dark: '/logo-dark.svg',
       },
       nav: [],
-      links: [{
-        icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+      links: [],
+      githubButton: {
+        enable: true,
+        owner: 'ZTL-UwU',
+        repo: 'shadcn-docs-nuxt',
+        showStarCount: true,
         target: '_blank',
-      }],
+        icon: 'lucide:github',
+      },
     },
     aside: {
       useLevel: true,
