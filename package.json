@@ -10,8 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.16.0",
-    "shadcn-docs-nuxt": "^0.8.21",
+    "nuxt": "^3.16.2",
+    "shadcn-docs-nuxt": "https://pkg.pr.new/ZTL-UwU/shadcn-docs-nuxt@172d7d0",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   }
