@@ -47,7 +47,6 @@ export default defineAppConfig({
     },
     toc: {
       enable: true,
-      title: 'On This Page',
       links: [{
         title: 'Star on GitHub',
         icon: 'lucide:star',
