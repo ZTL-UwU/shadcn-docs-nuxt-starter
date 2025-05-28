@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "nuxt": "^3.17.4",
-    "shadcn-docs-nuxt": "https://pkg.pr.new/ZTL-UwU/shadcn-docs-nuxt@15656d8",
+    "shadcn-docs-nuxt": "^1.0.0",
     "vue": "^3.5.15",
     "vue-router": "^4.5.1"
   }
