@@ -8,7 +8,7 @@ navigation: false
 announcement:
   title: 'Release v1'
   icon: '🎉'
-  to: https://shadcn-docs-nuxt.vercel.app/blog/v1.0
+  to: https://shadcn-docs-nuxt.vercel.app/blog/v1
   target: _blank
 actions:
   - name: Documentation
