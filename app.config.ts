@@ -13,6 +13,11 @@ export default defineAppConfig({
       title: 'shadcn-docs-starter',
       showTitle: true,
       darkModeToggle: true,
+      languageSwitcher: {
+        enable: false,
+        triggerType: 'icon',
+        dropdownType: 'select',
+      },
       logo: {
         light: '/logo.svg',
         dark: '/logo-dark.svg',
@@ -42,7 +47,6 @@ export default defineAppConfig({
     },
     toc: {
       enable: true,
-      title: 'On This Page',
       links: [{
         title: 'Star on GitHub',
         icon: 'lucide:star',
