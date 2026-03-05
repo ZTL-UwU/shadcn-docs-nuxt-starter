@@ -12,5 +12,21 @@ export default defineNuxtConfig({
       },
     ],
   },
+  vite: {
+    build: {
+      sourcemap: false,
+      chunkSizeWarningLimit: 1500,
+    },
+    optimizeDeps: {
+      include: ['dayjs', '@braintree/sanitize-url', 'mermaid'],
+      exclude: ['shadcn-vue'],
+      esbuildOptions: {
+        target: 'esnext',
+      },
+    },
+    resolve: {
+      dedupe: ['dayjs'],
+    },
+  },
   compatibilityDate: '2024-07-06',
 });
