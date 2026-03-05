@@ -12,7 +12,7 @@ export default defineNuxtConfig({
       },
     ],
   },
-    vite: {
+  vite: {
     build: {
       sourcemap: false,
       chunkSizeWarningLimit: 1500,
